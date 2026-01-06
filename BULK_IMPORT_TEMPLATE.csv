@@ -1,0 +1,14 @@
+state_code,metric_slug,value,data_source,source_url,confidence_level,notes
+CA,income-eligibility-fpl,85,CA CDSS CCDF Plan 2024-2025,https://www.cdss.ca.gov,high,Section 3.1 of CCDF plan
+CA,subsidy-waitlist-size,50000,CA DSS Annual Report 2024,https://www.cdss.ca.gov,medium,From annual statistical report
+CA,subsidy-rate-infant,1800,CA Regional Market Rate Survey 2024,https://www.cdss.ca.gov,high,Bay Area rate for infant care
+CA,ratio-infant,1:4,Title 22 California Code of Regulations,https://www.cdss.ca.gov,high,Section 101216.1
+CA,annual-inspection,true,CA CCL Regulations,https://www.cdss.ca.gov,high,Required annually
+CA,centers-per-1000,8.5,Child Care Aware of America 2024,https://childcareaware.org,medium,State fact sheet
+CA,childcare-desert-pct,28,Center for American Progress 2023,https://americanprogress.org,medium,CAP desert analysis
+CA,paid-leave-weeks,8,CA EDD PFL Program,https://edd.ca.gov/disability/paid-family-leave,high,8 weeks maximum
+CA,tax-credit-amount,3000,CA FTB Form 3506,https://ftb.ca.gov,high,Maximum credit amount
+CA,avg-worker-wage,38500,Bureau of Labor Statistics 2023,https://bls.gov/oes/current/oes_ca.htm,high,SOC 39-9011 mean annual
+CA,required-training-hours,24,CA Title 22 Regulations,https://www.cdss.ca.gov,high,Annual requirement for licensed providers
+TX,income-eligibility-fpl,65,TX HHS CCDF Plan 2024,https://hhs.texas.gov,high,
+TX,subsidy-rate-infant,950,TX HHS Rate Schedule 2024,https://hhs.texas.gov,high,
