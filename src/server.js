@@ -15,7 +15,7 @@ const PORT = process.env.PORT || 3000;
 app.use(cors({
   origin: [
     'http://localhost:5173',
-    'https://childcare-dashboard-iota.vercel.app/'
+    'https://childcare-dashboard-iota.vercel.app'
   ]
 }));
 app.use(express.json());
